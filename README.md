@@ -5,7 +5,7 @@ Auftrag 2 Budget-Assistent; Aeschliman, Albrecht, Kaderli
 
 | Datum | Version | Zusammenfassung |
 | --- | --- | --- |
-
+|   |   |   |
 |     | ... |     |
 |     | 1.0.0 |     |
 
