@@ -5,7 +5,7 @@ Auftrag 2 Budget-Assistent; Aeschliman, Albrecht, Kaderli
 
 | Datum | Version | Zusammenfassung |
 | --- | --- | --- |
-|   |   |   |
+|25.09.2023   | 0.0.1  | Heute haben wir das Projekt kennengelernt und uns mit diesem auseinandergesetzt, wir haben eine Mindmap erstellt mit: den im Porjektauftrag erwähnten Meilensteinen, den Anforderungen, den Rollen und einem Möglichen Mockup. |
 |     | ... |     |
 |     | 1.0.0 |     |
 
