@@ -12,6 +12,8 @@ Auftrag 2 Budget-Assistent; Aeschliman, Albrecht, Kaderli
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
+![image](https://github.com/Joel-kaderli/Budgetassistent/assets/111046353/5b1f47a0-f2aa-4929-ace5-e5f44b8db76d)
+
 
 ✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
 
