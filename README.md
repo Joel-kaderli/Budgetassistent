@@ -14,6 +14,7 @@ Auftrag 2 Budget-Assistent; Aeschliman, Albrecht, Kaderli
 ### 1.1 Ihr Projekt
 
 ✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ich bin griffig
 
 ### 1.2 Anforderungen
 
