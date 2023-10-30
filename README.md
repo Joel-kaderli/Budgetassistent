@@ -23,9 +23,10 @@ In unserem Programmierprojekt, programmieren wir eine WinForms-Applikation bei w
 | --- | --- | --- | --- |
 | 1   |    Muss |   Funktional  | Aufnahme von den wichtigten Eckwerten der Finanziellen Situation des Nutzers  |
 | 2   |    Muss | Funktional    | Wiederkehrebde ausgaben und einnahmen speichern    |
-| 3   |    Muss |   Qualität  | Der Nutzer soll unerwartetde weitere einnahemen und ausgaben eintragen und so eine übersicht über das gegenwärtige Budget erhalten.   |
-|  4  |  Kann   | Qualität |In einer erweiterung kann der Nutzersparziele festlegen, es kann auch berechnet werden wie lange es brauchen kann die Spar Ziele zu erreichen. |
-|   5   |      |        |
+| 3   |    Muss |   Funktional  | Der Nutzer soll unerwartetde weitere einnahemen und ausgaben eintragen und so eine übersicht über das gegenwärtige Budget erhalten.   |
+|  4  |  Kann   | Funktional |In einer erweiterung kann der Nutzersparziele festlegen, es kann auch berechnet werden wie lange es brauchen kann die Spar Ziele zu erreichen. |
+|   5  |   Muss   |    Qualität    | Soll ausgaben innert einer Sekunde machen |
+|   6  |   Muss   |    Qualität    | In Winform gute anordnung genacht sein und die Gleicheschriftart|
 
 ### 1.3 Testfälle
 
@@ -43,20 +44,28 @@ In unserem Programmierprojekt, programmieren wir eine WinForms-Applikation bei w
 
 | AP-№ | Frist | Zuständig | Beschreibung |
 | --- | --- | --- | --- |
-| 1|  30.10.2023   |   Joel  |  Testfälle dokumentieren |
-|2 |   3.11.2023  |   Christian  |  Meilenstein 1   |
-| 3 |   30.10.2023  | Mathieu     |  Helfen bei Testefällen und Meilenstein 1  |
-| 4 |   3.11.2023  |   Alle | Winform einarbeiten    |
-|5 |   12.11.2023  |  Alle  |  Meilenstein 2    |
-| 6|   14.11.2023  | Alle   |  Besprechung mit Auftraggeber    |
-| 7 |    19.11.2023 |   Alle |  Meilenstein 3  |
-| 8 |   21.11.2023  | Alle   |   Zweite Besprechung mit Auftraggeber  |
-|9 |   26.11.2023  |   Alle  |  Meilenstein 4|
-| 10 |   3.12.2023  |   Alle  |  Meilenstein 5   |
-|  |     |     |     |
-|  |     |     |     |
-|   |     |     |     |
-|   |     |     |     |
+|1|30.10.2023 |Joel|  Testfälle dokumentieren |
+|2|3.11.2023  |Christian|  Meilenstein 1   |
+|3|30.10.2023 | Mathieu|  Helfen bei Testefällen und Meilenstein 1  |
+|4|10.11.2023 | Alle| Lernatteliel in Winform einarbeiten     |
+| |3.11.2023  | Alle| Winform einarbeiten |
+| |12.11.2023 | Alle|  Meilenstein 2    |
+| |14.11.2023 | Alle|  Besprechung mit Auftraggeber    |
+| |19.11.2023 | Alle|  Meilenstein 3  |
+| |21.11.2023 | Alle|   Zweite Besprechung mit Auftraggeber  |
+| |26.11.2023 | Alle|  |
+| |3.12.2023  | Alle|  |
+| |     |     |     |
+| |     |     |     |
+
+Meilenstein 1:
+Meilenstein 2:
+Meilenstein 3:
+
+Wer programmiert was? 
+- Christian: 
+- Mathieu:
+- Joel:
 
 ✍️ Total: bspw. 26 Arbeitspakete
 
