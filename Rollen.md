@@ -2,7 +2,7 @@
 Gesamtchef, Hat den Kontakt zum "Kunden"
 
 ### Zeitoperator - Mathieu Albrecht
-Hat die Zeit im Auge und sorgt dafür wir im Zeitplan sind.
+Hat die Zeit im Auge und sorgt dafür dass wir im Zeitplan sind.
 
 ### Applikationsoperator - Christian Aeschlimann
 Bei Fragen zur stellen, Verantwortlich für die Code zuführung und die Code Struktur.
