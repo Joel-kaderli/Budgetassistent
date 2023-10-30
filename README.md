@@ -32,8 +32,17 @@ In unserem Programmierprojekt, programmieren wir eine WinForms-Applikation bei w
 
 | TC-№ | Vorbereitung (*given*) | Eingabe (*when*) | Erwartete Ausgabe (*then*) |
 | --- | --- | --- | --- |
-| 1.1 |     |     |     |
-| ... |     |     |     |
+| 1.1 |  Programm gestartet   | 2. Falls nicht Ja/Nein 5. Ja 7. 7500  |  1. Möchten sie ein Bugdetplanung machen? Ja/Nein? 3. Ihre eingabe ist Falsch! 4. 6. Geben sie hier ihr regelmässiges einkommen ein.   |
+| 1.2 |  1.1   | 2. 5500 4. Im Menu auswählen, feste ausgaben   | 1. Was sind Ihre festen ausgaben im Monat? 3. Menu poppt auf mit auswahl an festen ausgaben.   |
+| 1.3 | 1.2    | 2. Benuzer wählt aus liste aus.     | 1. Ein weiteres Menü, mit unerwartet ausgaben, poppt auf, mit einer Liste mit verschieden unerwarteten fällen.   |
+|  1.4   |  1.3   | 2. Ja  4. 1000 6. Auswahl des Benutzers 8. Unbekannt | 1. Benutzer kann sagen ob er sparzeiel festlegen Ja/Nein 3. Wie viel man sparen will im Monat? 5. Was man sich davon kaufen will wider poppt ein Menu auf. 7. Bis wann man das sparziel erreichen will? 9. Wird ins Budget eingeplant   |
+|     |     |     |     |
+|     |     |     |     |
+
+
+
+
+
 
 
 ### 1.4 Diagramme
