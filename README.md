@@ -57,18 +57,14 @@ In unserem Programmierprojekt, programmieren wir eine WinForms-Applikation bei w
 |2|3.11.2023  |Christian|  Meilenstein 1   |
 |3|30.10.2023 | Mathieu|  Helfen bei Testefällen und Meilenstein 1  |
 |4|10.11.2023 | Alle| Lernatteliel in Winform einarbeiten     |
-| |3.11.2023  | Alle| Winform einarbeiten |
-| |12.11.2023 | Alle|  Meilenstein 2    |
-| |14.11.2023 | Alle|  Besprechung mit Auftraggeber    |
-| |21.11.2023 | Alle|   Zweite Besprechung mit Auftraggeber  |
-| |26.11.2023 | Alle|  |
-| |3.12.2023  | Alle|  |
-| |     |     |     |
-| |     |     |     |
+|5|3.11.2023  | Alle| Winform einarbeiten |
+|6|12.11.2023 | Alle|  Meilenstein 2    |
+|7|14.11.2023 | Alle|  Besprechung mit Auftraggeber    |
+|8|21.11.2023 | Alle|   Zweite Besprechung mit Auftraggeber  |
+|9|     |     |     |
 
 Meilenstein 1:
 Meilenstein 2:
-Meilenstein 3:
 
 Wer programmiert was? 
 - Christian: Gui
