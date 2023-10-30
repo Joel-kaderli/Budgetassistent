@@ -24,7 +24,7 @@ In unserem Programmierprojekt, programmieren wir eine WinForms-Applikation bei w
 | 1   |    Muss |   Funktional  | Aufnahme von den wichtigten Eckwerten der Finanziellen Situation des Nutzers  |
 | 2   |    Muss | Funktional    | Wiederkehrebde ausgaben und einnahmen speichern    |
 | 3   |    Muss |   Qualität  | Der Nutzer soll unerwartetde weitere einnahemen und ausgaben eintragen und so eine übersicht über das gegenwärtige Budget erhalten.   |
-|  4  |  Kann   |   Randbedinung  |In einer erweiterung kann der Nutzersparziele festlegen, es kann auch berechnet werden wie lange es brauchen kann die Spar Ziele zu erreichen. |
+|  4  |  Kann   | Qualität |In einer erweiterung kann der Nutzersparziele festlegen, es kann auch berechnet werden wie lange es brauchen kann die Spar Ziele zu erreichen. |
 |   5   |      |        |
 
 ### 1.3 Testfälle
