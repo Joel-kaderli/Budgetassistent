@@ -43,17 +43,20 @@ In unserem Programmierprojekt, programmieren wir eine WinForms-Applikation bei w
 
 | AP-№ | Frist | Zuständig | Beschreibung |
 | --- | --- | --- | --- |
-| 1.A |  30.10.2023   |   Joel  |  Testfälle dokumentieren |
+| 1|  30.10.2023   |   Joel  |  Testfälle dokumentieren |
 |2 |   3.11.2023  |   Christian  |  Meilenstein 1   |
-| 3 |     |   Alle | Winform einarbeiten    |
-| 4 |     |  Alle  |  Meilenstein 2    |
-| 5 |     |   Alle |  Meilenstein 3  |
-| ... |     |   Alle  |  Meilenstein 4|
-| ... |     |   Alle  |  Meilenstein 5   |
-| ... |     |     |     |
-| ... |     |     |     |
-| ... |     |     |     |
-| ... |     |     |     |
+| 3 |   30.10.2023  | Mathieu     |  Helfen bei Testefällen und Meilenstein 1  |
+| 4 |   3.11.2023  |   Alle | Winform einarbeiten    |
+|5 |   12.11.2023  |  Alle  |  Meilenstein 2    |
+| 6|   14.11.2023  | Alle   |  Besprechung mit Auftraggeber    |
+| 7 |    19.11.2023 |   Alle |  Meilenstein 3  |
+| 8 |   21.11.2023  | Alle   |   Zweite Besprechung mit Auftraggeber  |
+|9 |   26.11.2023  |   Alle  |  Meilenstein 4|
+| 10 |   3.12.2023  |   Alle  |  Meilenstein 5   |
+|  |     |     |     |
+|  |     |     |     |
+|   |     |     |     |
+|   |     |     |     |
 
 ✍️ Total: bspw. 26 Arbeitspakete
 
