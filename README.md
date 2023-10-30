@@ -51,7 +51,6 @@ In unserem Programmierprojekt, programmieren wir eine WinForms-Applikation bei w
 | |3.11.2023  | Alle| Winform einarbeiten |
 | |12.11.2023 | Alle|  Meilenstein 2    |
 | |14.11.2023 | Alle|  Besprechung mit Auftraggeber    |
-| |19.11.2023 | Alle|  Meilenstein 3  |
 | |21.11.2023 | Alle|   Zweite Besprechung mit Auftraggeber  |
 | |26.11.2023 | Alle|  |
 | |3.12.2023  | Alle|  |
@@ -63,9 +62,9 @@ Meilenstein 2:
 Meilenstein 3:
 
 Wer programmiert was? 
-- Christian: 
-- Mathieu:
-- Joel:
+- Christian: Gui
+- Mathieu: Berechnung des Budgets mit regelmässigen Ein- und Ausgaben
+- Joel: Programm das Benutzer abfragt(Einnahem, ausgaben usw.)
 
 ✍️ Total: bspw. 26 Arbeitspakete
 
