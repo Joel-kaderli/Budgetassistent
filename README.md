@@ -63,8 +63,8 @@ In unserem Programmierprojekt, programmieren wir eine WinForms-Applikation bei w
 |8|21.11.2023 | Alle|   Zweite Besprechung mit Auftraggeber  |
 |9|     |     |     |
 
-Meilenstein 1:
-Meilenstein 2:
+Meilenstein 1: Mit dem Auftraggeber(Frau Klink) fehlende Details abklären, Testfälle zeigen.
+Meilenstein 2: Fertigstellen des Prototyps.
 
 Wer programmiert was? 
 - Christian: Gui
