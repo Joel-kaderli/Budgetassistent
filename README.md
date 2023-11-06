@@ -7,7 +7,7 @@ Auftrag 2 Budget-Assistent; Aeschliman, Albrecht, Kaderli
 | --- | --- | --- |
 |25.09.2023   | 0.0.1  | Heute haben wir das Projekt kennengelernt und uns mit diesem auseinandergesetzt, wir haben eine Mindmap erstellt mit: den im Porjektauftrag erwähnten Meilensteinen, den Anforderungen, den Rollen und einem Möglichen Mockup. |
 |  30.10.2023   | 0.0.2 |  Heute haben wir die Anfrderungen für das Programm, die Testfälle, Plannung und die Aufteilung bei Programmieren gemacht. Dannach haben wir mit dem Ersten Code gestartet.   |
-|     | 1.0.0 |     |
+| 06.11.2023    | 1.0.0 |   Heute haben wir mit dem Coden angefangen und sind relativ weit gekommen aber manschmal hat es fassen gegeben bei denen wir keine ahnug hatten und uns toutoriels reine ziehen mussten um die Sachen zu verstehen.  |
 
 ## 1 Informieren
 
