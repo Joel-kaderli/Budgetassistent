@@ -74,10 +74,9 @@ Wer programmiert was?
 ✍️ Total: bspw. 26 Arbeitspakete
 
 ## Fein Plannung 6.11.2023
-- [ ] Dateien auslessen und ein lesen programmieren (Joel)
-- [ ] Und fragen für den Bugetlaner (Joel)
-- [ ] digramm in winform erstellen (mathieu)
-- [ ] Winform starten können, Drop down liste erstellen (Christian)
+- [ ] Dateien auslessen und einlesen programmieren (Joel)
+- [ ] Digramm in winform erstellen (Mathieu)
+- [ ] Programm kann Beräge in Variabeln speichern welche über das dafür vorgesehenen TextFeld eingegeben wurden. (Christian)
 
 ## 3 Entscheiden
 
