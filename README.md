@@ -73,6 +73,11 @@ Wer programmiert was?
 
 ✍️ Total: bspw. 26 Arbeitspakete
 
+## Fein Plannung 6.11.2023
+- [ ] Dateien auslessen und ein lesen programmieren (Joel)
+- [ ] Und fragen für den Bugetlaner (Joel)
+- [ ] digramm in winform erstellen (mathieu)
+- [ ] Winform starten können, Drop down liste erstellen (Christian)
 
 ## 3 Entscheiden
 
