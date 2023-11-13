@@ -74,9 +74,18 @@ Wer programmiert was?
 ✍️ Total: bspw. 26 Arbeitspakete
 
 ## Fein Plannung 6.11.2023
-- [ ] Dateien auslessen und einlesen programmieren (Joel)
-- [ ] Digramm in winform erstellen (Mathieu)
-- [ ] Programm kann Beräge in Variabeln speichern welche über das dafür vorgesehenen TextFeld eingegeben wurden. (Christian)
+- [ ] Dateien auslesen und einlesen programmieren (Joel)
+- [x] Digramm in winform erstellen (Mathieu)
+- [x] Programm kann Beträge in Variabeln speichern welche über das dafür vorgesehenen TextFeld eingegeben wurden. (Christian)
+
+## Fein Planung 13.11.2023
+- [ ] Fragen vorbereiten für das Gespräch mit dem Kunden(Joel, Mathieu)
+- [ ] Dateien mit Inputinformationen einlesen und auslesen(Joel, Mathieu)
+- [ ] Icons im UI zu Buttons hinzufügen(Christian)
+- [ ] Das kreisdiagramm soll die Daten aus einem Array nehmen(Joel, Mathieu)
+
+![image](https://github.com/Joel-kaderli/Budgetassistent/assets/142605851/b7381956-1ae8-4e2d-a351-0cddffa477b2)
+
 
 ## 3 Entscheiden
 
