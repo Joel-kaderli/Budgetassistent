@@ -86,6 +86,10 @@ Wer programmiert was?
 
 ![image](https://github.com/Joel-kaderli/Budgetassistent/assets/142605851/b7381956-1ae8-4e2d-a351-0cddffa477b2)
 
+## Fein Planung 20.11.2023
+- [ ] Zusammenfügen der Diagramme und GUI
+- [ ] Einbauen des Dateispeichern (Code von Joel)
+- [ ] Array der Datei mit Diagramme verknüpfen
 
 ## 3 Entscheiden
 
@@ -113,3 +117,6 @@ Wer programmiert was?
 ## 6 Auswerten
 
 ✍️ Beschreiben Sie, was gut an Ihrem Projekt ging, und was Sie nächstes Mal anders machen würden.
+
+
+
