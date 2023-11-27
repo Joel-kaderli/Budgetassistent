@@ -91,6 +91,12 @@ Wer programmiert was?
 - [ ] Einbauen des Dateispeichern (Code von Joel)
 - [ ] Array der Datei mit Diagramme verknüpfen
 
+
+## Fein Planung 27.11.2023
+- [ ] Dateispeicher von Joel ins UI einbauen
+- [ ] Diagramm mit Array verbinden
+- [ ] UI Pages erstellen
+
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
