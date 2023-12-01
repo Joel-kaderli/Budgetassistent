@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Budgetassistent", "Budgetassistent.csproj", "{B82DD2E8-BDFF-4904-921F-5E5BC85F81A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82DD2E8-BDFF-4904-921F-5E5BC85F81A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82DD2E8-BDFF-4904-921F-5E5BC85F81A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82DD2E8-BDFF-4904-921F-5E5BC85F81A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82DD2E8-BDFF-4904-921F-5E5BC85F81A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53FE43E6-2175-406E-BD1D-5505CC02D7D3}
+	EndGlobalSection
+EndGlobal
